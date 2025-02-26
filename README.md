@@ -17,6 +17,6 @@ cd Pscaner
 
 ### run:
 ```bash
-perl Pscaner.pl <ip-addres> <start-port> <end-port>w
+perl Pscaner.pl <ip-addres> <start-port> <end-port>
 ```
 
